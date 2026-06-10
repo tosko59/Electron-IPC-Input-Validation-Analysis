@@ -1,3 +1,4 @@
+Markdown
 # Case Study: Electron.js IPC Input Validation & Path Traversal
 
 ## Executive Summary
